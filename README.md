@@ -5,7 +5,7 @@ Nesse repositório eu listo alguns dos conceitos que estudei para revisar lógic
 
 **Algumas informações importantes:**
 
-* O processo seletivo e o conteúdo abordado em cada prova técnica pode ser diferente dependendo da Academy de sua instituição. Esse repo é baseado em **parte** do conteúdo da prova para a Academy Brasília.
+* O processo seletivo e o conteúdo abordado em cada prova técnica pode ser diferente dependendo da Academy de sua instituição e ano de realização. Esse repo é baseado em **parte** do conteúdo da prova para a Academy Brasília feita em **2024**.
 * Atente-se ao processo seletivo da sua cidade. O conhecimento técnico é importante, mas as habilidades sociais também são avaliadas.
 * A pasta `questões provas processo de 24` lista algumas das questões que lembrava ao chegar em casa após realizar a minha prova na época (esqueci de algumas, claro). Logo, esse repo **NÃO SE TRATA DE UM MATERIAL OFICIAL**, mas sim, uma **referência** para seus estudos, de estudante pra estudante.
 * Se quiser um estudo mais aprofundado, recomendo pesquisar sobre a POSCOMP e provas passadas.
