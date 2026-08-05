@@ -1,7 +1,7 @@
 # 🍎 Estudos para a Developer Academy - Brasília
 ## Feito pelo Vini
 
-Nesse repositório eu listo alguns dos conceitos que estudei para revisar lógica de programação e linguagem C a fim de realizar a etapa de prova técnica do processo seletivo de 2024 para desenvolvedor na [Apple Developer Academy Brasília](https://academy.ucb.br).
+Nesse repositório eu listo alguns dos conceitos que estudei para revisar lógica de programação e linguagem C a fim de realizar a etapa de prova técnica do processo seletivo de 2024 para desenvolvedor na [Developer Academy UCB](https://academy.ucb.br).
 
 **Algumas informações importantes:**
 
