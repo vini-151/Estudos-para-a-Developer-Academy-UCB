@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-troca(int *a, int b){
+void troca(int *a, int b){
 
     int temp = *a;
     *a = b;
